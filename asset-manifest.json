@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "git@github.com:olivierBoullenger/monster-rolodex.git/static/css/main.8c4cb35a.chunk.css",
-    "main.js": "git@github.com:olivierBoullenger/monster-rolodex.git/static/js/main.854d41a8.chunk.js",
-    "main.js.map": "git@github.com:olivierBoullenger/monster-rolodex.git/static/js/main.854d41a8.chunk.js.map",
-    "runtime-main.js": "git@github.com:olivierBoullenger/monster-rolodex.git/static/js/runtime-main.0e2c9ec0.js",
-    "runtime-main.js.map": "git@github.com:olivierBoullenger/monster-rolodex.git/static/js/runtime-main.0e2c9ec0.js.map",
-    "static/js/2.9e7d0785.chunk.js": "git@github.com:olivierBoullenger/monster-rolodex.git/static/js/2.9e7d0785.chunk.js",
-    "static/js/2.9e7d0785.chunk.js.map": "git@github.com:olivierBoullenger/monster-rolodex.git/static/js/2.9e7d0785.chunk.js.map",
-    "index.html": "git@github.com:olivierBoullenger/monster-rolodex.git/index.html",
-    "precache-manifest.669bd66b0a16d4f04d5f3a5081f3ab74.js": "git@github.com:olivierBoullenger/monster-rolodex.git/precache-manifest.669bd66b0a16d4f04d5f3a5081f3ab74.js",
-    "service-worker.js": "git@github.com:olivierBoullenger/monster-rolodex.git/service-worker.js",
-    "static/css/main.8c4cb35a.chunk.css.map": "git@github.com:olivierBoullenger/monster-rolodex.git/static/css/main.8c4cb35a.chunk.css.map",
-    "static/js/2.9e7d0785.chunk.js.LICENSE": "git@github.com:olivierBoullenger/monster-rolodex.git/static/js/2.9e7d0785.chunk.js.LICENSE"
+    "main.css": "/olivierBoullenger/monster-rolodex.git/static/css/main.8c4cb35a.chunk.css",
+    "main.js": "/olivierBoullenger/monster-rolodex.git/static/js/main.6b9bb73f.chunk.js",
+    "main.js.map": "/olivierBoullenger/monster-rolodex.git/static/js/main.6b9bb73f.chunk.js.map",
+    "runtime-main.js": "/olivierBoullenger/monster-rolodex.git/static/js/runtime-main.058db722.js",
+    "runtime-main.js.map": "/olivierBoullenger/monster-rolodex.git/static/js/runtime-main.058db722.js.map",
+    "static/js/2.9e7d0785.chunk.js": "/olivierBoullenger/monster-rolodex.git/static/js/2.9e7d0785.chunk.js",
+    "static/js/2.9e7d0785.chunk.js.map": "/olivierBoullenger/monster-rolodex.git/static/js/2.9e7d0785.chunk.js.map",
+    "index.html": "/olivierBoullenger/monster-rolodex.git/index.html",
+    "precache-manifest.b9f4bec809e2f70fbf8b6b443b45f31b.js": "/olivierBoullenger/monster-rolodex.git/precache-manifest.b9f4bec809e2f70fbf8b6b443b45f31b.js",
+    "service-worker.js": "/olivierBoullenger/monster-rolodex.git/service-worker.js",
+    "static/css/main.8c4cb35a.chunk.css.map": "/olivierBoullenger/monster-rolodex.git/static/css/main.8c4cb35a.chunk.css.map",
+    "static/js/2.9e7d0785.chunk.js.LICENSE": "/olivierBoullenger/monster-rolodex.git/static/js/2.9e7d0785.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.0e2c9ec0.js",
+    "static/js/runtime-main.058db722.js",
     "static/js/2.9e7d0785.chunk.js",
     "static/css/main.8c4cb35a.chunk.css",
-    "static/js/main.854d41a8.chunk.js"
+    "static/js/main.6b9bb73f.chunk.js"
   ]
 }
